@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Astratte/Astratte.iml" filepath="$PROJECT_DIR$/Astratte/Astratte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classi Java/Classi Java.iml" filepath="$PROJECT_DIR$/Classi Java/Classi Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Corso/Corso.iml" filepath="$PROJECT_DIR$/Corso/Corso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ereditarieta/Ereditarieta.iml" filepath="$PROJECT_DIR$/Ereditarieta/Ereditarieta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Esercizi/Esercizi.iml" filepath="$PROJECT_DIR$/Esercizi/Esercizi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalStatic/FinalStatic.iml" filepath="$PROJECT_DIR$/FinalStatic/FinalStatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects.iml" filepath="$PROJECT_DIR$/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Incapsulamento/Incapsulamento.iml" filepath="$PROJECT_DIR$/Incapsulamento/Incapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfacce/Interfacce.iml" filepath="$PROJECT_DIR$/Interfacce/Interfacce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metodi/Metodi.iml" filepath="$PROJECT_DIR$/Metodi/Metodi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modificatori accesso/Modificatori accesso.iml" filepath="$PROJECT_DIR$/Modificatori accesso/Modificatori accesso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oggetti/Oggetti.iml" filepath="$PROJECT_DIR$/Oggetti/Oggetti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimaProva/PrimaProva.iml" filepath="$PROJECT_DIR$/PrimaProva/PrimaProva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scanner/Scanner.iml" filepath="$PROJECT_DIR$/Scanner/Scanner.iml" />
+    </modules>
+  </component>
+</project>
